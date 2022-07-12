@@ -1,0 +1,22 @@
+<link rel="stylesheet" href="/css/footer.css">
+<footer>
+    <div>
+        <p><i class="fas fa-copyright"></i>
+            2022 Harsh Sindhav Social Media. All Rights Reserved
+        </p>
+    </div>
+
+    <div>
+        <ul>
+            <% if(locals.user) { %>
+                <li>
+                    <a href="/">Home</a>
+                </li>
+                <li>
+                    <a href="/users/profile/<%= user.id %>">
+                        Profile</a>
+    
+            <% } %>
+        </ul>
+    </div>
+</footer>
