@@ -9,6 +9,6 @@ A project by Harsh Sindhav
 
 ➢	Will allow users with all the basic functionalities such as chatting, like, share, comment, post as well as many more.   
 
-![Screen_shot_1](Screenshot (109).png)
+![Screen_shot_1](/Screenshot (109).png)
 
-![Screen_shot_1](Screenshot (109).png)
+![Screen_shot_1](/Screenshot (109).png)
